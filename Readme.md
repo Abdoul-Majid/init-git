@@ -1,6 +1,5 @@
 Modifié dans la branche
-feature1
-=======
+feature1    
 Modifié dans la branche
 feature1
->>>>>>> DEV
+
